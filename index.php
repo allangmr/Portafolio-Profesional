@@ -333,7 +333,7 @@ $telefono = "+507 6621-9273";
                                         <p class="little-text">Desarrollo de mejoras a sistema comercial, implementación de nuevas tecnlogías, Full Stack Web Developer.</p>
                                     </li>
                                    <!-- a work -->
-                                    <li><h3 class="line-title">Consultoría de Tecnología - Grupo VLA</h3>
+                                    <li><h3 class="line-title">Consultoría de TI - Grupo VLA</h3>
                                         <span>Marzo de 2018 - Presente</span>
                                         <p class="little-text">Proveer soluciones tecnológicas y dirección de equipo de IT. Manejo de Proyectos.</p>
                                     </li>
@@ -348,12 +348,12 @@ $telefono = "+507 6621-9273";
                                         <p class="little-text">Desarrollo de aplicaciones web a medida, manejo de metodologías ágiles.</p>
                                     </li>
                                     <!-- a work -->
-                                    <li><h3 class="line-title">Desarrollador Web - Grupo Primavera</h3>
+                                    <li><h3 class="line-title">Programador - Grupo Primavera</h3>
                                         <span>Agosto de 2015 - Febrero de 2016</span>
                                         <p class="little-text">Desarrollo de aplicaciones web, análisis de sistemas computacionales, diseño y planeación de soluciones tenológicas.</p>
                                     </li>
                                     <!-- a work -->
-                                    <li><h3 class="line-title">Diseñador Web - Web Studio Panamá</h3>
+                                    <li><h3 class="line-title">Web Design - Web Studio Panamá</h3>
                                         <span>Enero de 2015 - Marzo de 2015</span>
                                         <p class="little-text">Diseño de Sitios Web autoadministrables y responsive.</p>
                                     </li>
