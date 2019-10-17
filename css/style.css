@@ -9,7 +9,7 @@
 
 /* Table of Content
 ==================================================
-	
+
 	1. Body and Core Css
 	2. Profile Section
 	3. Navigation
@@ -20,7 +20,7 @@
     8. Testimonial Section
     9. Contact Section
     10. Footer Section
-    11. Realtor Portfolio 
+    11. Realtor Portfolio
     12. Photo Gallery Widgets
     13. Table Widget
     14. Pricing Widget
@@ -28,7 +28,7 @@
     16. Discography Widget
     17. Responsive
 
-/*------------------------ 1 Body and Core Css ------------------------*/		
+/*------------------------ 1 Body and Core Css ------------------------*/
 
 
 .portfolio img.item{
@@ -79,7 +79,7 @@ hr{
 
 .section-title{
     position: relative;
-    display: inline-block;    
+    display: inline-block;
     padding: 0 3px;
 }
 
@@ -94,7 +94,7 @@ hr{
     height: 7px;
     width: 100%;
     bottom: 0;
-    opacity: 0.4;    
+    opacity: 0.4;
     left:0;
 }
 
@@ -126,7 +126,7 @@ hr{
 }
 
 .site-btn:hover{
-   transition: all ease 0.3s;   
+   transition: all ease 0.3s;
 }
 
 .site-btn.icon{
@@ -144,7 +144,7 @@ hr{
     width: 27px;
     float: right;
     text-align: center;
-    line-height: 29px;    
+    line-height: 29px;
     margin-top: 4px;
 }
 
@@ -176,7 +176,7 @@ blockquote {
 
 h1{
     font-size: 50px;
-    font-weight: 500;  
+    font-weight: 500;
 }
 
 h2{
@@ -186,7 +186,7 @@ h2{
 
 h3{
     font-size: 37px;
-    font-weight: 500;  
+    font-weight: 500;
 }
 
 h4{
@@ -232,23 +232,23 @@ h6{
 }
 
 .padding_30{
-   padding-top: 30px; 
+   padding-top: 30px;
 }
 
 .padding_45{
-   padding-top: 45px; 
+   padding-top: 45px;
 }
 
 .padding_50{
-   padding-top: 50px; 
+   padding-top: 50px;
 }
 
 .padding_60{
-   padding-top: 60px; 
+   padding-top: 60px;
 }
 
 .padding_90{
-   padding-top: 90px; 
+   padding-top: 90px;
 }
 
 .bottom_15{
@@ -304,7 +304,7 @@ h6{
     top:0;
     left:0;
     width: 100%;
-    height: 100%; 
+    height: 100%;
     z-index: 1000;
     display:table;
     text-align: center;
@@ -313,7 +313,7 @@ h6{
 @keyframes spinner {
   to {transform: rotate(360deg);}
 }
- 
+
 .spinner:before {
     content: '';
     box-sizing: border-box;
@@ -351,7 +351,7 @@ h6{
     -webkit-border-radius: 6px;
     -o-border-radius: 6px;
     width: 100%;
-    display: inline-block;    
+    display: inline-block;
     box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
     -webkit-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
     -moz-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
@@ -430,7 +430,7 @@ ul.profile-information li span{
 
 
 ul.profile-information li:first-child{
-    padding-bottom: 10px;    
+    padding-bottom: 10px;
     padding-left: 30px;
     position: relative;
 }
@@ -508,7 +508,7 @@ header nav ul li a{
 header nav ul li a:hover{
     transition: all ease 0.3s;
     -webkit-transition: all ease 0.3s;
-    -moz-transition: all ease 0.3s;   
+    -moz-transition: all ease 0.3s;
 }
 
 header nav ul li a:after{
@@ -525,7 +525,7 @@ header nav a.home-btn{
     height: 70px;
     line-height: 70px;
     margin-right: 10px;
-    transition: all ease 0.4s;    
+    transition: all ease 0.4s;
     line-height: 77px;
 }
 
@@ -540,7 +540,7 @@ header nav a.home-btn i{
 }
 
 header nav .site-btn{
-    margin: 18px 18px 0 5px;  
+    margin: 18px 18px 0 5px;
 }
 
 .social-icons a {
@@ -588,7 +588,7 @@ header nav .menuout{
 
 header nav .menuout{
     display: none;
-} 
+}
 
 /*------------------------ 4 Home Section ------------------------*/
 
@@ -628,7 +628,7 @@ section.graybg{
     padding: 18px;
     border-radius: 8px;
     box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.08);
-    width: 100%;    
+    width: 100%;
     padding: 26px 16px;
 }
 /*
@@ -821,7 +821,7 @@ ul.timeline{
     color: #989898;
     line-height: 18px;
     display: block;
-} 
+}
 
 #portfolio #filters-container .cbp-filter-item{
     font-size: 14px;
@@ -875,7 +875,7 @@ ul.timeline{
 
 .portfolio-content figure img{
     width: 100%;
-    border-radius: 5px; 
+    border-radius: 5px;
 }
 
 .cbp-popup-singlePage .cbp-popup-close{
@@ -924,11 +924,11 @@ ul.timeline{
 }
 
 .social-share ul li a{
-    color:#b6b6b6; 
+    color:#b6b6b6;
 }
 
 .social-share ul li a:hover{
-    color:#000; 
+    color:#000;
     transition: all ease 0.3s;
     -webkit-transition: all ease 0.3s;
     -moz-transition: all ease 0.3s;
@@ -955,7 +955,7 @@ ul.timeline{
 }
 
 .cbp-slider .cbp-nav-next:after{
-    background-position: -35px -71px; 
+    background-position: -35px -71px;
 }
 
 .cbp-slider .cbp-nav-prev:hover:after{
@@ -963,7 +963,7 @@ ul.timeline{
 }
 
 .cbp-slider .cbp-nav-next:hover:after{
-    background-position: -35px -71px; 
+    background-position: -35px -71px;
 }
 
 .mat-slider{
@@ -989,7 +989,7 @@ ul.timeline{
 
 #blog a.blog-box{
     cursor: pointer;
-    display: inline-block;   
+    display: inline-block;
     border-radius: 6px;
     -webkit-border-radius:6px;
     -moz-border-radius: 6px;
@@ -1082,7 +1082,7 @@ ul.timeline{
 #blog-post .blog-sidebar .category ul li{
     font-size: 13px;
     color: #3d3d3d;
-    border-bottom: solid 1px #efefef;    
+    border-bottom: solid 1px #efefef;
     line-height: 35px;
 }
 
@@ -1097,21 +1097,21 @@ ul.timeline{
 
 #blog-post .post-list ul li{
     list-style: none;
-} 
+}
 
 #blog-post .post-list ul li a{
     border-bottom: solid 1px #efefef;
     display: block;
     padding: 16px 0;
-} 
+}
 
-#blog-post .post-list ul li:last-child a{ 
+#blog-post .post-list ul li:last-child a{
     border:0;
-} 
+}
 
 #blog-post .post-list ul li a .info{
     font-size: 12px;
-} 
+}
 
 #blog-post .post-list ul li a .info span{
     color: #b4b4b4;
@@ -1129,7 +1129,7 @@ ul.timeline{
 }
 
 #blog-post .post .tags{
-    font-size: 12px; 
+    font-size: 12px;
     border-bottom: solid 1px #efefef;
     border-top: solid 1px #efefef;
     padding: 20px 0;
@@ -1192,7 +1192,7 @@ ul.timeline{
 
 #blog-post .post-comment ul li .comment-content a{
     font-size: 12px;
-    padding-top: 10px;    
+    padding-top: 10px;
     display: block;
 }
 
@@ -1247,7 +1247,7 @@ ul.timeline{
 .testimonials .comment{
     box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.08);
     width: 100%;
-    padding: 15px;    
+    padding: 15px;
     border-radius: 8px;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -1303,7 +1303,7 @@ ul.timeline{
 
 .owl-theme .owl-controls .owl-page span{
     width: 10px;
-    height: 10px;    
+    height: 10px;
     margin: 5px 5px;
 }
 
@@ -1316,7 +1316,7 @@ ul.timeline{
 .contact-info ul li{
     list-style: none;
     font-size: 14px;
-    color: #787878;    
+    color: #787878;
     line-height: 34px;
 }
 
@@ -1478,7 +1478,7 @@ footer .footer .copyright a:hover{
 .details ul li{
     list-style: none;
     font-size: 13px;
-    color: #989898;    
+    color: #989898;
     line-height: 25px;
 }
 
@@ -1522,14 +1522,14 @@ footer .footer .copyright a:hover{
     display: block;
     border-radius: 5px;
     -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;  
-    overflow: hidden;  
+    -webkit-border-radius: 5px;
+    overflow: hidden;
     box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.08);
     -webkit-box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.08);
     -moz-box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.08);
 }
 
-#widget-gallery .cbp-item a:hover{ 
+#widget-gallery .cbp-item a:hover{
     transition: all ease 0.3s;
     box-shadow: 0px 0px 20px 0px rgba(4, 6, 4, 0.20);
     -webkit-box-shadow: 0px 0px 20px 0px rgba(4, 6, 4, 0.20);
@@ -1544,7 +1544,7 @@ footer .footer .copyright a:hover{
     font-size: 18px;
 }
 
-.mat-table thead{    
+.mat-table thead{
     font-size: 15px;
     font-weight: 500;
 }
@@ -1586,13 +1586,13 @@ footer .footer .copyright a:hover{
     font-size: 18px;
     font-weight: 600;
     border-bottom: 1px solid #dfdfdf;
-    padding-bottom: 15px; 
+    padding-bottom: 15px;
 }
 
 .mat-price ul li:nth-child(2){
     font-size: 24px;
     font-weight: 600;
-    padding:18px 0 15px;  
+    padding:18px 0 15px;
 }
 
 
@@ -1729,7 +1729,7 @@ footer .footer .copyright a:hover{
 
     .events ul li .site-btn {
          float: none;
-         margin-top: 15px; 
+         margin-top: 15px;
     }
 
 }
@@ -1748,7 +1748,7 @@ footer .footer .copyright a:hover{
         display: none;
     }
 
-} 
+}
 
 
 @media screen and (max-width: 991px) and (min-width: 576px) {
@@ -1772,7 +1772,10 @@ footer .footer .copyright a:hover{
     header{
         margin-top: 30px;
     }
+    .timeline li .line-title{
+        font-size:12px;
 
+    }
     header nav ul{
     }
 
@@ -1832,7 +1835,7 @@ footer .footer .copyright a:hover{
 
     header nav .menuout{
         display: block;
-    } 
+    }
 
     .social-icons{
         margin-right: 14px;
