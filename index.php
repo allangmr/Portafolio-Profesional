@@ -577,8 +577,6 @@ $telefono = "+507 6621-9273";
 <script src="js\main.js"></script>
 <!-- for color alternatives -->
 <script src="js\jquery.cookie-1.4.1.min.js"></script>
-<script src="js\Demo.js"></script>
-<link rel="stylesheet" href="css\Demo.min.css">
 
 
 </body>
