@@ -102,7 +102,7 @@ $telefono = "+507 6621-9273";
                         <li class="tab">
                             <a class="home-btn" href="#home"><i class="fa fa-home" aria-hidden="true"></i></a>
                         </li>
-                        <li class="tab"><a href="#resume">EXPERIENCIA PROFESIONAL</a></li>
+                        <li class="tab"><a href="#resume">EXPERIENCIA</a></li>
                         <!--<li class="tab"><a href="#portfolio">PORTAFOLIO</a></li> -->
                         <li class="tab"><a href="#contact">CONTACTO</a></li>
                     </ul>
