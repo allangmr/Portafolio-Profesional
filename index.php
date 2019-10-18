@@ -69,7 +69,7 @@ $telefono = "+507 6621-9273";
             <span class="job"><?php echo $posicion;?></span>
         </div>
         <figure class="profile-image">
-            <img src="images\profiles.jpg" alt="">
+            <img src="images\perfil.jpg" alt="">
         </figure>
         <ul class="profile-information">
             <li></li>
