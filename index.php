@@ -15,8 +15,8 @@ $telefono = "+507 6621-9273";
 ================================================== -->
 <title>Portafolio</title>
 <meta charset="UTF-8">
-<meta name="description" content="Mat - Resume & vCard HTML Template">
-<meta name="keywords" content="personal, vcard, portfolio">
+<meta name="description" content="Allan Montilla - Perfil Profesional">
+<meta name="keywords" content="programador, panama, desarrollador, web">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Favicon
